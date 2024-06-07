@@ -315,12 +315,20 @@ if __name__ == "__main__":
                         default="data/audio",
     )
 
+    # make the preparation of data as False
+    parser.add_argument("--preparation",
+                        action="store_true",
+                        help="Whether to prepare the data",
+                        default=False
+    )
+
     args = parser.parse_args()
     
     # inference_config = OmegaConf.load(args.inference_config)
     # print(inference_config)
     
-    data_preparation = False #inference_config[avatar_id]["preparation"]
+    # data_preparation = False #inference_config[avatar_id]["preparation"]
+    data_preparation = args.preparation
     video_path = 'data/video/sun.mp4' #inference_config[avatar_id]["video_path"]
     bbox_shift = 7 #inference_config[avatar_id]["bbox_shift"]
     avatar = Avatar(
