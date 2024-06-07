@@ -3,29 +3,27 @@
 
 ```
 # getting all the models and having them in a place
-# %mkdir models
-# %cd models
-# !pip install gdown
-# !git lfs install
-# !gdown 154JgKpzCPW82qINcVieuPH3fZ2e0P812
-# !wget https://download.pytorch.org/models/resnet18-5c106cde.pth
-# !git clone https://huggingface.co/yzd-v/DWPose
-# !git clone https://huggingface.co/stabilityai/sd-vae-ft-mse
-# !git clone https://huggingface.co/TMElyralab/MuseTalk
-# !wget https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt
-
-# this line is download models
-# !mkdir face-parse-bisent
-# !cp -r resnet18-5c106cde.pth face-parse-bisent
-# !cp -r 79999_iter.pth face-parse-bisent
-# !mkdir whisper
-# !mv tiny.pt whisper/tiny.pt
-# !mv MuseTalk/musetalk .
-# !mkdir dwpose
-# !cp -r DWPose/dw-ll_ucoco_384.pth dwpose
-# %cd /content
-# !mkdir /content/drive/MyDrive/Teja_SignLangauge/musevmodels
-# !mv models /content/drive/MyDrive/Teja_SignLangauge/musevmodels
+%mkdir models
+%cd models
+!pip install gdown
+!git lfs install
+!gdown 154JgKpzCPW82qINcVieuPH3fZ2e0P812
+!wget https://download.pytorch.org/models/resnet18-5c106cde.pth
+!git clone https://huggingface.co/yzd-v/DWPose
+!git clone https://huggingface.co/stabilityai/sd-vae-ft-mse
+!git clone https://huggingface.co/TMElyralab/MuseTalk
+!wget https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt
+!mkdir face-parse-bisent
+!cp -r resnet18-5c106cde.pth face-parse-bisent
+!cp -r 79999_iter.pth face-parse-bisent
+!mkdir whisper
+!mv tiny.pt whisper/tiny.pt
+!mv MuseTalk/musetalk .
+!mkdir dwpose
+!cp -r DWPose/dw-ll_ucoco_384.pth dwpose
+%cd /content
+!mkdir /content/drive/MyDrive/Teja_SignLangauge/musevmodels
+!mv models /content/drive/MyDrive/Teja_SignLangauge/musevmodels
 ```
 
 
