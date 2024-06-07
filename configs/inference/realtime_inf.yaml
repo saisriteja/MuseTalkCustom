@@ -1,0 +1,62 @@
+# avatar_0:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/emily_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/hausaufgaben_audio_complete_2.wav"
+
+# avatar_1:
+#  preparation: False
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/emily_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/customer_support_audio_complete.wav"
+
+avatar_2:
+ preparation: False
+ bbox_shift: 7
+ video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/natalie_avatar_kurz_klein.mp4"
+ audio_clips:
+     audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/recap_audio_complete.wav"
+
+# avatar_31:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/new_avatar_1.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/communication_audio_complete.wav"
+
+# avatar_4:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/aisha_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/gruppenarbeit_audio_complete.wav"
+
+# avatar_5:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/evelyn_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/feedback_audio_complete.wav"
+
+# avatar_6:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/minju_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/phishing_audio_complete.wav"
+
+# avatar_7:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/liv_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/onboarding_audio_complete.wav"
+
+# avatar_8:
+#  preparation: True
+#  bbox_shift: 7
+#  video_path: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/finale_driving/caroline_avatar_kurz_klein.mp4"
+#  audio_clips:
+#      audio_0: "/media/cilab/data1/saisriteja/data/Learntec_24-20240603T023230Z-001/Learntec_24/marketing_audio_complete.wav"
